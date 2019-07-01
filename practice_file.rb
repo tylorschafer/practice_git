@@ -1,3 +1,3 @@
 def welcome
-  p "Yet another change"
+  p "Hello Mod 1 World"
 end
